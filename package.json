@@ -1,0 +1,10 @@
+{
+  "name": "phillyfit-leads",
+  "version": "1.0.0",
+  "description": "Lead generation platform for gym equipment sales in Greater Philadelphia",
+  "private": true,
+  "scripts": {
+    "dev": "npx serve .",
+    "lint": "npx eslint '**/*.js'"
+  }
+}
